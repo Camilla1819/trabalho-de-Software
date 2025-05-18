@@ -1,0 +1,60 @@
+.table,td{
+    border: 1px solid black;
+    border-radius: 12px;
+    border-collapse: separate;
+    padding: 10px;
+}
+#img-Ler{
+    width: 900x; /* largura*/
+    height: 670px; /* altura*/
+     border-radius:10px ;
+
+}
+
+#img-Espanha{
+    width: 590px;
+    height:400px;
+    border-radius: 10px;
+}
+
+#img-chile{
+    width: 590px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+#img-estadosunidos{
+    width: 90px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+body{
+    background-color: beige;
+}
+
+h1{
+    margin-top: auto;
+    text-align: center;
+    color: firebrick;
+}
+
+.apresentaçao{
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+ul,li{
+    line-height: 1.6;
+}
+
+a{
+    color: blue;
+}
+
+a:hover{
+    color: green;
+}
+
+
